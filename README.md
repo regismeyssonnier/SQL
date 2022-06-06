@@ -2,4 +2,4 @@
 
 ## 1. SQL implementation
 
-This repository show some **`awful`** **sql** request !!!! 🥇
+This repository show some **`awesome`** **sql** request !!!! 🥇
